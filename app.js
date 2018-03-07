@@ -28,7 +28,7 @@ app.use(flash());
 
 //PASSPORT CONFIG
 app.use(require("express-session")({
-    secret: "I lowkey got hoes sometimes",
+    secret: "I love macaronni... sorry mom",
     resave: false,
     saveUninitialized: false
 }));
